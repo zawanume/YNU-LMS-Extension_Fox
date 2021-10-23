@@ -23,7 +23,7 @@
 
 ![Step-3](imgs/step-3.png)
 
-6. アドオンの一覧に、`YNU-LMS Extension Fox`が追加されていれば成功です
+7. アドオンの一覧に、`YNU-LMS Extension Fox`が追加されていれば成功です
 
 ## 注意事項
 kurikin氏作のChrome拡張機能をFirefoxに対応させたものです。
