@@ -19,7 +19,7 @@
 ![Step-2](imgs/step-2.png)
 
 5. `ステップ2`で解凍したフォルダを選択する
-6. `minifest.json`を選択し`開く`をクリック
+6. `manifest.json`を選択し`開く`をクリック
 
 ![Step-3](imgs/step-3.png)
 
