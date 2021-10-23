@@ -1,6 +1,6 @@
-# YNU-LMS-Extension v1.0.1
+# YNU-LMS-Extension v1.0
 
-未実施の課題・テスト情報を取得して、LMSに一覧表示するChrome拡張です。
+未実施の課題・テスト情報を取得して、LMSに一覧表示するFirefox拡張です。
 
 :warning: **提出期限までの日数が15日以上あるものは表示されません。**
 
@@ -22,11 +22,11 @@
 
 ![Step-3](imgs/step-3.png)
 
-6. 拡張機能の一覧に、`YNU-LMS Extension`が追加されていれば成功です
+6. 拡張機能の一覧に、`YNU-LMS Extension Fox`が追加されていれば成功です
 
 ## 注意事項
+kurikin氏作のChrome拡張機能をFirefoxに対応させたものです。
 大学非公式のツールです。自己責任で使用してください。
 
 ## バグ報告やご要望
-作者のTwitter(@_kurikin)へお気軽にどうぞ。
-DMでもメンションでも大丈夫です。
+作者のTwitter(@zawanume)へ。
